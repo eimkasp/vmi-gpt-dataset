@@ -10,6 +10,10 @@ This dataset has been compiled as part of the Tesonet AI Only Hackathon for the 
 
 Explore the [VMI AI Agent here](https://chatgpt.com/g/g-1hD2A49BL-vmi-gpt) to interact with an AI-powered system designed to assist with tax-related inquiries.
 
+## Explore NoMore.Accountants
+
+[Visit NoMore.Accountants](https://nomore.accountants) to explore our demo and **sign up for beta access** to experience our AI-powered solution aimed at revolutionizing the accounting industry by simplifying complex tax and financial tasks.
+
 ## Overview
 
 This dataset consists of multiple sources of structured tax and financial information, providing a comprehensive resource for AI models focusing on tax regulations, accounting, and related administrative processes.
