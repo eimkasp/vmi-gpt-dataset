@@ -1,0 +1,194 @@
+Darbo Laiko Kalendorius 2024
+Kiekvienais metais sulaukiame daug padėkų dėl to, kad viešai pasidaliname šiuo kalendorium. Nieko mainais už tai neprašome, tačiau mus labai nudžiugintų, jei prisijungtumėte prie mūsų Facebook puslapio.
+
+Buhalterinės apskaitos paslaugos UAB Fingida
+
+Taip pat galite palikti atsiliepimą apie mus Google paspaudę ant šios nuorodos.
+
+Kalendorius
+2024 metų darbo laiko kalendorius. Šventinės ir poilsio dienos. Kalendorių taip pat nemokamai galite parsisiųsti excel arba pdf formatu.
+
+Sausis
+Pr	1	8	15	22	29	
+An	2	9	16	23	30	
+Tr	3	10	17	24	31	
+Kt	4	11	18	25		
+Pn	5	12	19	26		
+Št	6	13	20	27		
+Sk	7	14	21	28		
+Viso mėnesyje	5 dienų darbo savaitė	6 dienų darbo savaitė
+Darbo dienos	22	26
+Darbo valandos	176	174
+Šventinės dienos	1	1
+Poilsio dienos	8	4
+Vasaris
+Pr		5	12	19	26	
+An		6	13	20	27	
+Tr		7	14	21	28	
+Kt	1	8	15	22	29	
+Pn	2	9	16	23		
+Št	3	10	17	24		
+Sk	4	11	18	25		
+Viso mėnesyje	5 dienų darbo savaitė	6 dienų darbo savaitė
+Darbo dienos	20	24
+Darbo valandos	159	159
+Šventinės dienos	1	1
+Poilsio dienos	8	4
+Kovas
+Pr		4	11	18	25	
+An		4	12	19	26	
+Tr		6	13	20	27	
+Kt		7	14	21	28	
+Pn	1	8	15	22	29	
+Št	2	9	16	23	30	
+Sk	3	10	17	24	31	
+Viso mėnesyje	5 dienų darbo savaitė	6 dienų darbo savaitė
+Darbo dienos	20	25
+Darbo valandos	160	164
+Šventinės dienos	2	2
+Poilsio dienos	9	4
+Balandis
+Pr	1	8	15	22	29	
+An	2	9	16	23	30	
+Tr	3	10	17	24		
+Kt	4	11	18	25		
+Pn	5	12	19	26		
+Št	6	13	20	27		
+Sk	7	14	21	28		
+Viso mėnesyje	5 dienų darbo savaitė	6 dienų darbo savaitė
+Darbo dienos	21	25
+Darbo valandos	167	166
+Šventinės dienos	1	1
+Poilsio dienos	8	4
+Gegužė
+Pr		6	13	20	27	
+An		7	14	21	28	
+Tr	1	8	15	22	29	
+Kt	2	9	16	23	30	
+Pn	3	10	17	24	31	
+Št	4	11	18	25		
+Sk	5	12	19	26		
+Viso mėnesyje	5 dienų darbo savaitė	6 dienų darbo savaitė
+Darbo dienos	22	26
+Darbo valandos	176	173
+Šventinės dienos	2	2
+Poilsio dienos	7	3
+Birželis
+Pr		3	10	17	24	
+An		4	11	18	25	
+Tr		5	12	19	26	
+Kt		6	13	20	27	
+Pn		7	14	21	28	
+Št	1	8	15	22	29	
+Sk	2	9	16	23	30	
+Viso mėnesyje	5 dienų darbo savaitė	6 dienų darbo savaitė
+Darbo dienos	19	24
+Darbo valandos	152	157
+Šventinės dienos	2	2
+Poilsio dienos	9	4
+Liepa
+Pr	1	8	15	22	29	
+An	2	9	16	23	30	
+Tr	3	10	17	24	31	
+Kt	4	11	18	25		
+Pn	5	12	19	26		
+Št	6	13	20	27		
+Sk	7	14	21	28		
+Viso mėnesyje	5 dienų darbo savaitė	6 dienų darbo savaitė
+Darbo dienos	23	26
+Darbo valandos	183	175
+Šventinės dienos	1	1
+Poilsio dienos	7	4
+Rugpjūtis
+Pr		5	12	19	26	
+An		6	13	20	27	
+Tr		7	14	21	28	
+Kt	1	8	15	22	29	
+Pn	2	9	16	23	30	
+Št	3	10	17	24	31	
+Sk	4	11	18	25		
+Viso mėnesyje	5 dienų darbo savaitė	6 dienų darbo savaitė
+Darbo dienos	21	26
+Darbo valandos	167	171
+Šventinės dienos	1	1
+Poilsio dienos	9	4
+Rugsėjis
+Pr		2	9	16	23	30
+An		3	10	17	24	
+Tr		4	11	18	25	
+Kt		5	12	19	26	
+Pn		6	13	20	27	
+Št		7	14	21	28	
+Sk	1	8	15	22	29	
+Viso mėnesyje	5 dienų darbo savaitė	6 dienų darbo savaitė
+Darbo dienos	21	25
+Darbo valandos	168	167
+Šventinės dienos	0	0
+Poilsio dienos	9	5
+Spalis
+Pr		7	14	21	28	
+An	1	8	15	22	29	
+Tr	2	9	16	23	30	
+Kt	3	10	17	24	31	
+Pn	4	11	18	25		
+Št	5	12	19	26		
+Sk	6	13	20	27		
+Viso mėnesyje	5 dienų darbo savaitė	6 dienų darbo savaitė
+Darbo dienos	23	27
+Darbo valandos	183	180
+Šventinės dienos	0	0
+Poilsio dienos	8	4
+Lapkritis
+Pr		4	11	18	25	
+An		5	12	19	26	
+Tr		6	13	20	27	
+Kt		7	14	21	28	
+Pn	1	8	15	22	29	
+Št	2	9	16	23	30	
+Sk	3	10	17	24		
+Viso mėnesyje	5 dienų darbo savaitė	6 dienų darbo savaitė
+Darbo dienos	20	24
+Darbo valandos	160	160
+Šventinės dienos	2	2
+Poilsio dienos	8	4
+Gruodis
+Pr		2	9	16	23	30
+An		3	10	17	24	31
+Tr		4	11	18	25	
+Kt		5	12	19	26	
+Pn		6	13	20	27	
+Št		7	14	21	28	
+Sk	1	8	15	22	29	
+Viso mėnesyje	5 dienų darbo savaitė	6 dienų darbo savaitė
+Darbo dienos	19	23
+Darbo valandos	150	151
+Šventinės dienos	3	3
+Poilsio dienos	9	5
+2023 metai	5 dienų darbo savaitė	6 dienų darbo savaitė
+Dienos	Val	Dienos	Val
+I Ketvirčio valandų skaičius	62	495	75	497
+II Ketvirčio valandų skaičius	62	495	75	496
+III Ketvirčio valandų skaičius	65	518	77	513
+IV Ketvirčio valandų skaičius	62	493	74	491
+Viso per metus	251	2001	301	1997
+Vidutinis darbo valandų skaičius /mėn	166,8	166,4
+Vidutinis darbo dienų skaičius /mėn	20,9	25,1
+Šventinių dienų sąrašas
+Sausio 1-oji – Naujųjų metų diena
+Vasario 16-oji – Lietuvos valstybės atkūrimo diena
+Kovo 11-oji – Lietuvos nepriklausomybės atkūrimo diena
+Kovo 31-oji – Šventosios Velykos
+Balandžio 1-oji – Antroji Šv. Velykų diena
+Gegužės 1-oji – Tarptautinė darbo diena ir Motinos diena
+Gegužės 5-oji – Motinos diena
+Birželio 2-oji – Tėvo diena
+Birželio 24-oji – Rasos ir Joninių diena
+Liepos 6-oji – Mindaugo karūnavimo diena
+Rugpjūčio 15-oji – Žolinė arba Švč. Mergelės Marijos ėmimo į dangų diena
+Lapkričio 1-oji ir 2-oji dienos – Visų Šventųjų ir mirusiųjų minėjimo diena
+Gruodžio 24-oji – Kūčių diena
+Gruodžio 25-oji ir 26-oji dienos– Šventosios Kalėdos
+Teisinė duomenų bazė
+Darbo laiko normą reglamentuoja Lietuvos Respublikos Darbo Kodekso 123 str.
+
+LR Socialinės apsaugos ir darbo ministro 2023.12.21 įsakymas A1-895 dėl metinių vidutinio mėnesio darbo dienų ir vidutinio mėnesio darbo valandų skaičių 2023 metais patvirtinimo.
