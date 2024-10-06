@@ -4,6 +4,12 @@
 
 This dataset has been compiled as part of the Tesonet AI Only Hackathon for the project [NoMore.Accountants](https://nomore.accountants), aimed at simplifying and automating accounting processes. The data can be used for training Large Language Models (LLMs) and is sourced from publicly available content related to the Lithuanian tax system.
 
+## Explore VMI AI Agent
+
+![VMI AI Agent](https://images.we-saas.com/insecure/fill/0/0/ce/0/plain/https://bp-bucket.dev-wesaas.com/uploads/businesspress-prod/1728213161570-screenshot-2024-10-06-at-122709-76494da7e06d6cfe2cce.png@webp)
+
+Explore the [VMI AI Agent here](https://chatgpt.com/g/g-1hD2A49BL-vmi-gpt) to interact with an AI-powered system designed to assist with tax-related inquiries.
+
 ## Overview
 
 This dataset consists of multiple sources of structured tax and financial information, providing a comprehensive resource for AI models focusing on tax regulations, accounting, and related administrative processes.
